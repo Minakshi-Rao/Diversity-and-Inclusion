@@ -36,7 +36,19 @@ I have gained valuable insights into the realm of Diversity and Inclusion (D&I) 
 
 On the technical front, I have honed my skills in leveraging visual enhancements for data representation. Specifically, I have acquired proficiency in creating gradient overlays within Microsoft PowerPoint and employing this technique to elevate the visual appeal and clarity of area charts when working with Power BI. This capability not only enhances the aesthetics of data presentation but also contributes to more effective data communication and decision-making processes within the realm of business intelligence.
 
+**HIRING_AND_RESIGN**
 
+![H and R](https://github.com/Minakshi-Rao/Diversity-and-Inclusion/assets/144680551/2f993f9d-eef1-4ab6-89f4-0c68a2c670c1)
+
+
+**PROMOTION**
+
+![PROMOTION](https://github.com/Minakshi-Rao/Diversity-and-Inclusion/assets/144680551/b2184de4-4f38-48be-92ed-8f3e97f2c2c2)
+
+
+**RATING**
+
+![1D](https://github.com/Minakshi-Rao/Diversity-and-Inclusion/assets/144680551/9646facd-750d-42ab-9240-acdf23f35f9b)
 
 
 
